@@ -16,4 +16,4 @@
 
 站点还可以通过建立完善的用户反馈和互动机制，提升用户粘性。提供视频评分、评论、收藏、分享等功能，能够让用户在平台上更长时间停留，并增加回访率。
 
-<span style="display:none;">[Canonical link]( ）</span>
+<span style="display:none;">[Canonical link]( https://github.com/tsk543210/xxriben0907 ）</span>
